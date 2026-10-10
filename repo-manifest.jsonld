@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/dj-database-url/commit/5656563adbf9194bbe49979569b4f57c4cc39830",
       "git:hexsha": "5656563adbf9194bbe49979569b4f57c4cc39830",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/dj-database-url/commit/7462e79d515078f8034dd51b2b05dd208d9fa691",
