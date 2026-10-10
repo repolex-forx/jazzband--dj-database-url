@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "jazzband",
+  "repo": "dj-database-url",
+  "versions": [
+    {
+      "commit": "5656563adbf9194bbe49979569b4f57c4cc39830",
+      "parsed_at": "2026-10-10T19:22:23.096675+00:00",
+      "filetree": "filetree/5656563adbf9194bbe49979569b4f57c4cc39830.nq.gz",
+      "blobs": [
+        "blob/0b2080596374f131dac9f1939ea94d4d34b29d1f.nq.gz",
+        "blob/7fdca495ad4dc0fdcfc77795d5f0d443253063ae.nq.gz",
+        "blob/b68c12acd32654005ab057d4d42632b0b5e25a87.nq.gz",
+        "blob/78e5810b17665c447498b31723d6e85dd60a9fd6.nq.gz",
+        "blob/829a22ace1d5d01ee25a2522d3ec8ba0c68576c8.nq.gz",
+        "blob/3aaf15160fdd8c073080582783ad1207ec9cf598.nq.gz",
+        "blob/2a681bd264bbc64a1ff206bab616e87a145b3565.nq.gz",
+        "blob/205288f46bf40f07b7f3ee750581c371cdb114fc.nq.gz",
+        "blob/2bb5a14af2762eece822d279c1f02d32efd77994.nq.gz",
+        "blob/00d3cc9c1dcf4ef1fba69c594536e712d71182d6.nq.gz",
+        "blob/7b49b475f9dafa1d385497220471baf77bb1374c.nq.gz",
+        "blob/24722aefab001cade01af5959c618028e6b36d1d.nq.gz",
+        "blob/e0d5efab56fb94577e7804603eb6f21f36977cb2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
