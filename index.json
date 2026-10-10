@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "dj-database-url",
+  "versions": [
+    {
+      "commit": "5656563adbf9194bbe49979569b4f57c4cc39830",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:26:28.884762+00:00"
+    }
+  ]
+}
